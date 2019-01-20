@@ -30,3 +30,4 @@ gielda  # municipality
 suohkan # municipality
 tjielte # municipality
 tjïelte # municipality
+uenorge

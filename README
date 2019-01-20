@@ -9,8 +9,6 @@ It includes domains from all lists, excluding
 This means there are reserved (not only valid)
 domains in this list, but for my purposes this is OK.
 
-All names 
-
 All names that contains "oe" has been commented out from
 05, 07 and 08 as all these appears to be reserved, not valid.
 This excludes: mosjoen, sandnessjoen
@@ -38,7 +36,9 @@ using the two-letter+oslo counties from 03
 Everything but jan-mayen was removed from 04, as all the
 other appears to be reserved, not valid.
 
-leangaviika.no and vågsøy.no was added to 07 manually.
+uenorge was added to 01 manually
+
+leangaviika and vågsøy was added to 07 manually.
 
 hønefoss was added to 05 manually
 
