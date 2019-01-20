@@ -19,6 +19,9 @@ not valid.
 The gs.<county>.no-placeholder in 01 has been expanded
 using the two-letter+oslo counties from 03
 
+Everything but jan-mayen was removed from 04, as all the
+other appears to be reserved, not valid.
+
 leangaviika.no and vågsøy.no was added to 07_kommuner manually.
 
 Created from [1] and [2] as of 2018-01-19
