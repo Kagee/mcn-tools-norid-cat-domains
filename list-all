@@ -1,4 +1,11 @@
 #! /bin/bash
 SOURCE_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "$SOURCE_DIR"
-cat *.txt | sed -e 's/ *//' -e 's/#.*//' -e '/^$/d' | sort | uniq
+
+RAW="$(cat *.txt | sed -e 's/ *//' -e 's/#.*//' -e '/^$/d' | sort | uniq)"
+# Where a name exsists with hyphen, and a version witouth also is found,
+# the latter is probably not valid
+WITH_HYPHEN="$(echo "$RAW" | grep '-' | tr -d '-' | tr '\n' '|')"
+WITH_AE="$(echo "$RAW" | grep 'æ' | grep -v 'ø' | sed -e  's/æ/e/g' | tr '\n' '|')"
+
+echo "$RAW" | grep -v -E "^(${WITH_AE}${WITH_HYPHEN::-1})$"
