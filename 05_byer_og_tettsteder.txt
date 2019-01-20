@@ -1,60 +1,61 @@
+hønefoss
 akrehamn
-aakrehamn
+# aakrehamn
 åkrehamn
 algard
-aalgaard
-algaard
-aalgard
+# aalgaard
+# algaard
+# aalgard
 ålgård
 arna
-broennoeysund
-broennoysund
-bronnoeysund
+# broennoeysund
+# broennoysund
+# bronnoeysund
 bronnoysund
 brønnøysund
 brumunddal
 brummunddal
 bryne
 drobak
-droebak
+# droebak
 drøbak
 egersund
 fetsund
 floro
-floroe
+# floroe
 florø
 hokksund
 honefoss
-hoenefoss
+# hoenefoss
 jessheim
 jorpeland
-joerpeland
+# joerpeland
 jørpeland
 kirkenes
 kopervik
 krokstadelva
 langevag
-langevaag
+# langevaag
 langevåg
 leirvik
 mjondalen
-mjoendalen
+# mjoendalen
 mjøndalen
 mo-i-rana
 moirana
 mosjoen
-mosjoeen
+# mosjoeen
 mosjøen
 nesoddtangen
 orkanger
 osoyro
-osoeyro
+# osoeyro
 osøyro
 raholt
-raaholt
+# raaholt
 råholt
 sandnessjoen
-sandnessjoeen
+# sandnessjoeen
 sandnessjøen
 skedsmokorset
 slattum
@@ -62,7 +63,7 @@ spjelkavik
 stathelle
 stavern
 stjordalshalsen
-stjoerdalshalsen
+# stjoerdalshalsen
 stjørdalshalsen
 tananger
 tranby

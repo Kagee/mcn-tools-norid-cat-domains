@@ -51,7 +51,7 @@ báidár
 berg
 bergen
 berlevag
-berlevaag
+# berlevaag
 berlevåg
 bearalvahki
 bearalváhki
@@ -62,7 +62,7 @@ bjugn
 bodo
 # bodoe
 bodø
-baadaaddjaa
+# baadaaddjaa
 badaddja
 bådåddjå
 budejju
@@ -77,18 +77,22 @@ bygland
 bykle
 barum
 berum
-baerum
+# baerum
 bærum
 bievat
 bievát
 bomlo
 # boemlo
 bømlo
-bo
+#bo
+bo.nordland
+bo.telemark
 # boe
-bø
+#bø
+bø.nordland
+bø.telemark
 batsfjord
-baatsfjord
+# baatsfjord
 båtsfjord
 bahcavuotna
 báhcavuotna
@@ -137,7 +141,7 @@ flekkefjord
 flesberg
 flora
 fla
-flaa
+# flaa
 flå
 folldal
 forsand
@@ -149,7 +153,7 @@ froland
 frosta
 frana
 frena
-fraena
+# fraena
 fræna
 froya
 # froeya
@@ -165,7 +169,7 @@ gáŋgaviika
 gaular
 gausdal
 gildeskal
-gildeskaal
+# gildeskaal
 gildeskål
 giske
 gjemnes
@@ -183,7 +187,7 @@ granvin
 gratangen
 grimstad
 grong
-kraaanghke
+# kraaanghke
 kraanghke
 kråanghke
 grue
@@ -214,9 +218,13 @@ haugesund
 hemne
 hemnes
 hemsedal
-heroy
+#heroy
+heroy.more-og-romsdal
+heroy.nordland
 # heroey
-herøy
+#herøy
+herøy.møre-og-romsdal
+herøy.nordland
 hitra
 hjartdal
 hjelmeland
@@ -228,7 +236,7 @@ hol
 hole
 holmestrand
 holtalen
-holtaalen
+# holtaalen
 holtålen
 hornindal
 horten
@@ -238,7 +246,7 @@ hvaler
 hyllestad
 hagebostad
 hegebostad
-haegebostad
+# haegebostad
 hægebostad
 hoyanger
 # hoeyanger
@@ -247,7 +255,7 @@ hoylandet
 # hoeylandet
 høylandet
 ha
-haa
+# haa
 hå
 ibestad
 inderoy
@@ -275,7 +283,7 @@ guovdageaidnu
 klepp
 klabu
 klebu
-klaebu
+# klaebu
 klæbu
 kongsberg
 kongsvinger
@@ -299,17 +307,17 @@ kvitsoy
 kvitsøy
 kvafjord
 kvefjord
-kvaefjord
+# kvaefjord
 kvæfjord
 giehtavuoatna
 kvanangen
 kvenangen
-kvaenangen
+# kvaenangen
 kvænangen
 navuotna
 návuotna
 kafjord
-kaafjord
+# kaafjord
 kåfjord
 gaivuotna
 gáivuotna
@@ -335,7 +343,7 @@ lillehammer
 lillesand
 lindesnes
 lindas
-lindaas
+# lindaas
 lindås
 lom
 loppa
@@ -352,7 +360,7 @@ lyngen
 ivgu
 lardal
 lerdal
-laerdal
+# laerdal
 lærdal
 lodingen
 # loedingen
@@ -365,7 +373,7 @@ loten
 løten
 malvik
 malsoy
-# maalsoey
+# # maalsoey
 mandal
 marker
 marnardal
@@ -377,9 +385,9 @@ meloy
 # meloey
 meløy
 meraker
-meraaker
+# meraaker
 meråker
-moaareke
+# moaareke
 moareke
 moåreke
 midsund
@@ -391,13 +399,13 @@ molde
 moskenes
 moss
 malselv
-maalselv
+# maalselv
 målselv
 malatvuopmi
 málatvuopmi
 masoy
-# maasoey
-maasoy
+# # maasoey
+# maasoy
 # masoey
 måsøy
 muosat
@@ -406,7 +414,7 @@ namdalseid
 aejrie
 namsos
 namsskogan
-naaaamesjevuemie
+# naaaamesjevuemie
 naamesjevuemie
 nååmesjevuemie
 laakesvuemie
@@ -416,7 +424,9 @@ narviika
 naustdal
 nedreeiker
 nedre-eiker
-nes
+#nes
+nes.akershus
+nes.buskerud
 nesna
 nesodden
 nesseby
@@ -446,10 +456,10 @@ nore-og-uvdal
 notodden
 naroy
 neroy
-# naeroey
+# # naeroey
 # naroey
 # neroey
-naeroy
+# naeroy
 nærøy
 notteroy
 # noetteroey
@@ -459,10 +469,12 @@ nøtterøy
 odda
 oppdal
 oppegard
-oppegaard
+# oppegaard
 oppegård
 orkdal
-os
+#os
+os.hedmark
+os.hordaland
 osen
 osteroy
 # osteroey
@@ -500,7 +512,7 @@ rollag
 rygge
 ralingen
 relingen
-raelingen
+# raelingen
 rælingen
 rodoy
 # roedoey
@@ -522,9 +534,9 @@ røyken
 royrvik
 # roeyrvik
 røyrvik
-raarvihke
+# raarvihke
 rade
-raade
+# raade
 råde
 salangen
 siellak
@@ -533,7 +545,10 @@ salat
 sálát
 sálat
 samnanger
-sande
+#sande
+sande.møre-og-romsdal
+sande.more-og-romsdal
+sande.vestfold
 sandefjord
 sandnes
 sandoy
@@ -560,11 +575,11 @@ skjervøy
 skierva
 skiervá
 skjak
-skjaak
+# skjaak
 skjåk
 skodje
 skanland
-skaanland
+# skaanland
 skånland
 skanit
 skánit
@@ -573,10 +588,10 @@ smola
 smøla
 snillfjord
 snasa
-snaasa
+# snaasa
 snåsa
 snoasa
-snaaase
+# snaaase
 snaase
 snåase
 sogndal
@@ -687,7 +702,7 @@ troandin
 trysil
 trana
 trena
-traena
+# traena
 træna
 trogstad
 # troegstad
@@ -701,7 +716,7 @@ divttasvuotna
 tysnes
 tysvar
 tysver
-tysvaer
+# tysvaer
 tysvær
 tonsberg
 # toensberg
@@ -729,7 +744,7 @@ vefsn
 vaapste
 vega
 vegarshei
-vegaarshei
+# vegaarshei
 vegårshei
 vennesla
 verdal
@@ -741,8 +756,8 @@ vestre-slidre
 vestretoten
 vestre-toten
 vestvagoy
-# vestvaagoey
-vestvaagoy
+# # vestvaagoey
+# vestvaagoy
 # vestvagoey
 vestvågøy
 vevelstad
@@ -754,28 +769,32 @@ volda
 voss
 varoy
 veroy
-vaeroy
+# vaeroy
 # varoey
 # veroey
-# vaeroey
+# # vaeroey
 værøy
 vagan
-vaagan
+# vaagan
 vågan
 voagat
 vagsoy
-# vaagsoey
+# # vaagsoey
 # vagsoey
-vaagsoy
+# vaagsoy
 vågsøy
 vaga
-vaagaa
-vaaga
-vagaa
+# vaagaa
+# vaaga
+# vagaa
 vågå
-valer
-vaaler
-våler
+#valer
+valer.hedmark
+valer.ostfold
+# vaaler
+#våler
+våler.østfold
+våler.hedmark
 oksnes
 # oeksnes
 øksnes
@@ -813,28 +832,28 @@ oystreslidre
 øystreslidre
 øystre-slidre
 afjord
-aafjord
+# aafjord
 åfjord
 al
-aal
+# aal
 ål
 alesund
-aalesund
+# aalesund
 ålesund
 amli
-aamli
+# aamli
 åmli
 amot
-aamot
+# aamot
 åmot
 ardal
-aardal
+# aardal
 årdal
-aas
+# aas
 ås
 aseral
-aaseral
+# aaseral
 åseral
 asnes
-aasnes
+# aasnes
 åsnes

@@ -9,12 +9,28 @@ It includes domains from all lists, excluding
 This means there are reserved (not only valid)
 domains in this list, but for my purposes this is OK.
 
+All names 
+
 All names that contains "oe" has been commented out from
-07 and 08 as all these appears to be reserved, not valid.
+05, 07 and 08 as all these appears to be reserved, not valid.
+This excludes: mosjoen, sandnessjoen
+
+All names that contains "aa" has been commented out from
+07, 07 and 08 as all these appears to be reserved, not valid.
+This excludes: kraanghke, aarborte, laakesvuemie, snaase,
+naamesjevuemie
+
+All names that contains "ae" has been commented out from
+05, 07 and 08 as all these appears to be reserved, not valid.
+This excludes: aejrie
 
 The multi-word county names without hyphens in
 08 has been removed, as all these appears to be reserved,
 not valid.
+
+The municipalities Bø, Herøy, Nes, Os, Sande and Våler
+in 05 has been edited manually, as the exist in multiple
+counties.
 
 The gs.<county>.no-placeholder in 01 has been expanded
 using the two-letter+oslo counties from 03
@@ -22,7 +38,9 @@ using the two-letter+oslo counties from 03
 Everything but jan-mayen was removed from 04, as all the
 other appears to be reserved, not valid.
 
-leangaviika.no and vågsøy.no was added to 07_kommuner manually.
+leangaviika.no and vågsøy.no was added to 07 manually.
+
+hønefoss was added to 05 manually
 
 Created from [1] and [2] as of 2018-01-19
 
