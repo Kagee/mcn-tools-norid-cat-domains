@@ -1,0 +1,32 @@
+gs.oslo # Oslo
+gs.of   # Østfold
+gs.ah   # Akershus
+gs.hm   # Hedmark
+gs.ol   # Oppland
+gs.bu   # Buskerud
+gs.vf   # Vestfold
+gs.tm   # Telemark
+gs.aa   # Aust-Agder
+gs.va   # Vest-Agder
+gs.rl   # Rogaland
+gs.hl   # Hordaland
+gs.sf   # Sogn og Fjordane
+gs.mr   # Møre og Romsdal
+gs.st   # Sør-Trøndelag
+gs.nt   # Nord-Trøndelag
+gs.nl   # Nordland
+gs.tr   # Troms
+gs.fm   # Finnmark
+vgs
+fhs
+museum
+fylkesbibl
+folkebibl
+idrett
+priv    # private
+kommune # municipality
+herad   # municipality
+gielda  # municipality
+suohkan # municipality
+tjielte # municipality
+tjïelte # municipality

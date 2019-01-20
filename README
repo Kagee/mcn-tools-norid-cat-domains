@@ -1,0 +1,27 @@
+This list is based on the non-machine-readable data
+at [1] and [2].
+
+It includes domains from all lists, excluding
+- "Navn som er forbudt av tekniske årsaker"
+- "Diverse"
+- "Mulige fremtidige kategoridomener"
+
+This means there are reserved (not only valid)
+domains in this list, but for my purposes this is OK.
+
+All names that contains "oe" has been commented out from
+07 and 08 as all these appears to be reserved, not valid.
+
+The multi-word county names without hyphens in
+08 has been removed, as all these appears to be reserved,
+not valid.
+
+The gs.<county>.no-placeholder in 01 has been expanded
+using the two-letter+oslo counties from 03
+
+leangaviika.no and vågsøy.no was added to 07_kommuner manually.
+
+Created from [1] and [2] as of 2018-01-19
+
+[1] https://www.norid.no/no/regelverk/navnepolitikk/vedlegg-a/
+[2] https://www.norid.no/no/regelverk/navnepolitikk/vedlegg-b/

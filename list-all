@@ -1,0 +1,6 @@
+#! /bin/bash
+cat *.txt | sed -e 's/ *//' -e 's/#.*//' -e '/^$/d' | sort | uniq | \
+  while read D; do
+    echo "$D"
+    echo "$D" | idn --no-tld
+done | LC_ALL=C sort | uniq

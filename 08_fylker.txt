@@ -1,0 +1,49 @@
+ostfold
+# oestfold
+østfold
+akershus
+hedmark
+oppland
+buskerud
+vestfold
+telemark
+aust-agder
+# austagder
+vest-agder
+# vestagder
+rogaland
+hordaland
+sogn-og-fjordane
+#sognogfjordane
+more-og-romsdal
+# moreogromsdal
+# moere-og-romsdal
+# moereogromsdal
+møre-og-romsdal
+# møreogromsdal
+sor-trondelag
+# soer-troendelag
+# sor-troendelag
+# soer-trondelag
+sør-trøndelag
+# lulli-troendelaga
+lulli-trondelaga
+lulli-trøndelága
+nord-trondelag
+# nordtrondelag
+# nord-troendelag
+# nordtroendelag
+nord-trøndelag
+# nordtrøndelag
+# davvi-troendelaga
+davvi-trondelaga
+davvi-trøndelága
+nordland
+nordlanda
+nordlánda
+troms
+tromsa
+romsa
+finnmark
+finnmarku
+finnmárku
