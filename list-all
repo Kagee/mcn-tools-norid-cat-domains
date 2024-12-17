@@ -8,4 +8,4 @@ RAW="$(cat *.txt | sed -e 's/ *//' -e 's/#.*//' -e '/^$/d' | sort | uniq)"
 WITH_HYPHEN="$(echo "$RAW" | grep '-' | tr -d '-' | tr '\n' '|')"
 WITH_AE="$(echo "$RAW" | grep 'æ' | grep -v 'ø' | sed -e  's/æ/e/g' | tr '\n' '|')"
 
-echo "$RAW" | grep -v -E "^(${WITH_AE}${WITH_HYPHEN::-1})$"
+echo "$RAW" | grep -v -E "^(${WITH_AE}${WITH_HYPHEN::-1})$" | sort -u

@@ -1,3 +1,17 @@
+# mcn-tools-norid-cat-domains
+
+Machine readable list of .no category and special domains.
+
+Input data last updated 2018-01-19.
+
+# Scripts
+* `list-all` simple  wrapper with simple massaging of input files
+* `cats.py` verifies output of `list-all` but checking that NS is x/y/x.nic.no. Used to manually make grep regexes.
+* Static greps from date:
+  * `nogrep.2024-12-09`
+
+# About
+
 This list is based on the non-machine-readable data
 at [1] and [2].
 
